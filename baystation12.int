@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: code code\game code\game\antagonist code\game\gamemodes code\game\gamemodes\calamity code\modules code\modules\ascent code\modules\awaymissions code\modules\client code\modules\client\preference_setup code\modules\client\preference_setup\general code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\brain 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: code\modules\mob\living\carbon\brain\brain.dm
+FILE: code\modules\mob\living\carbon\brain\brain.dm
+*/
+// END_INTERNALS
